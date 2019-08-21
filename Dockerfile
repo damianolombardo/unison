@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:3.10
 MAINTAINER Onni Hakala <onni.hakala@geniem.com>
 
 ARG UNISON_VERSION=2.51.2
