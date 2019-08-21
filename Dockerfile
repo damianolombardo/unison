@@ -1,5 +1,5 @@
 FROM alpine:3.10
-MAINTAINER Onni Hakala <onni.hakala@geniem.com>
+MAINTAINER Damiano Lombardo <lombardo.damiano@gmail.com>
 
 ARG UNISON_VERSION=2.51.2
 
